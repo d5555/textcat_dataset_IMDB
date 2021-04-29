@@ -1,5 +1,5 @@
 # textcat_dataset_IMDB
-Movie Review Dataset  for binary sentiment classification in spacy format.<br>
+Movie Review Dataset  for binary sentiment classification in spacy format (and JSON).<br>
 train dataset - 2000 examples<br>
 dev dataset - 500 examples<br>
 Use https://github.com/d5555/TagEditor to view examples. <br>
